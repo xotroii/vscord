@@ -1,2 +1,2 @@
 # vscord
-just random pictures
+image hosting + miscellaneous storage
